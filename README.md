@@ -1,12 +1,27 @@
 {
-  "name": "Xin GuoShuai",
-  "short_name": "XiaoShuai",
-  "building": "public opinion monitoring",
+  "name": "Muhammed Nazeem",
+  "short_name": "Nazeem",
+  "building": "Dialoqbase ⚡",
+  "organizations": [
+    {
+      "name": "Buckthorn Dev"
+    },
+    {
+      "name": "Flutter Challenges"
+    }
+  ],
   "social": {
-      "blog":"mynamecoder.com"
+      "twitter":"@n4ze3m"
    },
   "favorite_lanaguages": [
-    "Java",
-    "Python"
+    "GO",
+    "TypeScript",
+    "Dart",
+    "JavaScript",
+    "Python",
+    "C",
+    "C++",
+    "BASH",
+    "Rust"
   ]
 }
