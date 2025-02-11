@@ -1,27 +1,17 @@
+<h1 align="center">Xiao Ming</h1>
+
+```json
 {
-  "name": "Muhammed Nazeem",
-  "short_name": "Nazeem",
-  "building": "Dialoqbase ⚡",
-  "organizations": [
-    {
-      "name": "Buckthorn Dev"
-    },
-    {
-      "name": "Flutter Challenges"
-    }
-  ],
+  "name": "Xiao Ming",
+  "short_name": "ming",
   "social": {
-      "twitter":"@n4ze3m"
+      "blog":"mynamecoder.com"
    },
   "favorite_lanaguages": [
-    "GO",
-    "TypeScript",
-    "Dart",
-    "JavaScript",
+    "Java",
     "Python",
-    "C",
-    "C++",
-    "BASH",
-    "Rust"
   ]
 }
+````
+
+
