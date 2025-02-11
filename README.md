@@ -4,13 +4,13 @@
 {
   "name": "Xiao Ming",
   "short_name": "ming",
-  "work":"public opinion monitoring"
+  "work":"public opinion monitoring",
   "social": {
       "blog":"mynamecoder.com"
    },
   "favorite_lanaguages": [
     "Java",
-    "Python",
+    "Python"
   ]
 }
 ````
